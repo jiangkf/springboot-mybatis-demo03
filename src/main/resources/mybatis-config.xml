@@ -36,6 +36,7 @@
     <!--mapper文件配置-->
     <mappers>
         <mapper resource="mapper/FruitMapperDao.xml"/>
+        <mapper resource="mapper/UserMapperDao.xml"/>
     </mappers>
 
 </configuration>
